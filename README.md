@@ -1,4 +1,24 @@
-# FrontendForBankingApplication
+# LENDERS BANKING APP
+## Features
+
+- Add new account  
+- Deposit money  
+- Withdraw money  
+- View account details  
+- Responsive Angular frontend  
+- RESTful APIs using Spring Boot
+
+## 🔧 Built With
+
+- **Spring Boot** – Backend framework for building RESTful APIs
+- **Angular** – Frontend framework for building responsive UI
+- **MySQL** – Database for storing account and transaction details
+- **Maven** – Build and dependency management for Spring Boot
+- **Node.js & npm** – For managing Angular dependencies
+
+
+
+## FrontendForBankingApplication
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.4.
 
